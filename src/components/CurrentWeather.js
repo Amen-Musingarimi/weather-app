@@ -7,7 +7,7 @@ const CurrentWeather = () => {
     <SafeAreaView style={styles.wrapper}>
       <View style={styles.container}>
         <Feather name="sun" size={100} color="black" />
-        <Text style={styles.temp}>6</Text>
+        <Text style={styles.temp}>9</Text>
         <Text style={styles.feels}>Feels Like 5</Text>
         <View style={styles.highLowWrapper}>
           <Text style={styles.highLow}>High: 8</Text>
